@@ -1,0 +1,3 @@
+In the React application the node_module folder has lots of files which excludes above 100 
+so that it doesnt upload on to the git repository
+ Please make sure that the node-modules to be added while compilation
